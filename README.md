@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaizer</h1>
 <h3 align="center">A passionate PHP developer from Viet Nam</h3>
 
-- 🔭 I’m currently working on J&T Express [Project CRM](https://crm.jtexpress.vn)
+- 🔭 I’m currently working on J&T Express [CRM](https://crm.jtexpress.vn)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
